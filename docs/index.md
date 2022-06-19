@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome to My Public Portfolio.
 
-You can use the [editor on GitHub](https://github.com/ernest-prog/My-Public-Profile/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+On this page you'll find my work from CS 499. It includes a code review and demonstrations of coding an inventory application with reverse engineering.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Table of Contents
+
+Review work in chronological order of assignment.
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Professional Assessment
+## Code Review 
+### Enhancement One: Software Design and Engineering
+#### Enhancement Two: Algorithms and Data Structure
+##### Enhancement Three: Databases
 
-- Bulleted
-- List
+Numbered List 
 
-1. Numbered
-2. List
+1. Professional Assessment [Link](https://github.com/ernest-prog/My-Public-Profile/blob/gh-pages/Professional%20Assesment.docx)
+2. Code Review [Link](https://github.com/ernest-prog/My-Public-Profile/blob/gh-pages/Code%20Review%20Notes.docx)
+3. Software Design and Engineering [Link](https://github.com/ernest-prog/My-Public-Profile/blob/gh-pages/Milestone%202%20.docx)
+4. Algorithms and Data Structure [Link](https://github.com/ernest-prog/My-Public-Profile/blob/gh-pages/4-2%20Milestone.docx)
+5. Databases [Link](https://github.com/ernest-prog/My-Public-Profile/blob/gh-pages/5-2%20Milestone.docx)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+# Completed Project with all Enhancements
+
+Final Project [Link](https://github.com/ernest-prog/My-Public-Profile/blob/gh-pages/Final%20Project.zip)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ernest-prog/My-Public-Profile/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
